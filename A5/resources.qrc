@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>blueFlashOff.png</file>
+        <file>blueFlashOn.png</file>
+        <file>redFlashOff.png</file>
+        <file>redFlashOn.png</file>
+    </qresource>
+</RCC>
